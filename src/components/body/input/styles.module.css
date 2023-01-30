@@ -1,0 +1,7 @@
+.input{
+    display: flex;
+    justify-content: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: aquamarine;
+}
